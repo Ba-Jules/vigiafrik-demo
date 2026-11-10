@@ -1,0 +1,1 @@
+import{C as e,m as t,s as n}from"./runtime-core.esm-bundler-DG5n6KTx.js";import{t as r}from"./PlaceholderPage-CFVPX__2.js";var i=t({__name:`CatalogPage`,setup(t){return(t,i)=>(e(),n(r,{title:t.$t(`pages.catalog.title`),description:t.$t(`pages.catalog.description`),"planned-in":`V1.1`,phase:`v1.1`},null,8,[`title`,`description`]))}});export{i as default};

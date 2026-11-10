@@ -1,0 +1,1 @@
+import{C as e,m as t,s as n}from"./runtime-core.esm-bundler-DG5n6KTx.js";import{t as r}from"./PlaceholderPage-CFVPX__2.js";var i=t({__name:`PartnersPage`,setup(t){return(t,i)=>(e(),n(r,{title:t.$t(`pages.partners.title`),description:t.$t(`pages.partners.description`),"planned-in":`V2`,phase:`v2`},null,8,[`title`,`description`]))}});export{i as default};
